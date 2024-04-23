@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Shashank Kumar Gupta
-
 <!--
+## Skills
+- **Languages:** C/C++, Python
+- **Front-End:** HTML, CSS, Tailwind CSS, Bootstrap
+- **Back-end:** API, node.js
+
 **shashank4628/shashank4628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
